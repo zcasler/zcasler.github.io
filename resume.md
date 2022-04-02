@@ -2,8 +2,7 @@
 
 (949) 999-2777
 
-###Personal website:
-zach@example.com
+Email: zach@example.com
 
 LinkedIn link [Here](http://www.linkedin.com/in/zach)
 
