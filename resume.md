@@ -1,6 +1,6 @@
 # Zach Casler
 
-(949) 999-2777
+Phone: (949) 999-2777
 
 Email: zach@example.com
 
@@ -19,9 +19,9 @@ Co worker quote:
 ## University of Washington (Seattle, WA)
 a great school located in the beautiful pacific northwest, more information can be found [Here on UW's Website](uw.edu)
 
-#####Major: 
+##### Major: 
 Bachelor of Arts: Geography: Data Science
-######Minor: Informatics
+###### Minor: Informatics
 
 
 
